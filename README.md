@@ -1,6 +1,6 @@
 # Transfer Learning with ResNet50 on CIFAR-10
 
-**Notebook:** `C3_W1_Lab_2_Transfer_Learning_CIFAR_10.ipynb`
+**Notebook:** `Transfer_Learning_CIFAR_10.ipynb`
 
 ## Overview
 
@@ -85,9 +85,7 @@ Actual performance depends on the environment, library versions, and training ru
 - `feature_extractor` constructs ResNet50 when called. For a more efficient and maintainable implementation, create the base model once and reuse it.
 - Upsampling CIFAR-10 images does not add new image detail; it only adapts their dimensions to ResNet50’s expected input size.
 
-## License and Attribution
 
-CIFAR-10 and the ImageNet weights are used through resources provided by their respective authors and distributors. Review the applicable terms before redistributing the data or model weights, or using them commercially.
 
 ## Author
 
