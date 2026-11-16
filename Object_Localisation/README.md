@@ -5,7 +5,7 @@ A TensorFlow project that trains a **Convolutional Neural Network (CNN)** to per
 - **Classify** the digit shown in an image, from 0 to 9.
 - **Locate** the digit by predicting its bounding box.
 
-The implementation is available in [`C3_W1_Lab_3_Object_Localization.ipynb`](./C3_W1_Lab_3_Object_Localization.ipynb).
+The implementation is available in [`Object_Localization.ipynb`](./C3_W1_Lab_3_Object_Localization.ipynb).
 
 ## Overview
 
