@@ -127,7 +127,7 @@ Start Jupyter:
 jupyter notebook
 ```
 
-Open `C3_W1_Lab_3_Object_Localization.ipynb` and execute the cells in order.
+Open `Object_Localization.ipynb` and execute the cells in order.
 
 ### Google Colab
 
